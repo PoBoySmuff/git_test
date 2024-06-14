@@ -1,2 +1,4 @@
 # git_test
-"Git Basics" lesson repo
+"Git Basics" lesson
+
+Hello Odin!
